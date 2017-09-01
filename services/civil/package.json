@@ -1,0 +1,14 @@
+{
+  "name": "civil",
+  "version": "1.0.0",
+  "description": "A simple and easy way to participate in civil disobedience",
+  "main": "index.js",
+  "scripts": {
+    "test": "DEBUG=*,-node* nodemon test.js"
+  },
+  "author": "ugenu.io",
+  "license": "ISC",
+  "dependencies": {
+    "decimal": "0.0.2"
+  }
+}
